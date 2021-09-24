@@ -1,6 +1,6 @@
 ![](ucd.png)
 # About Me 👨‍💻
-I'm Karol. I'm a third year Computer Science Student at University College Dublin and an aspiring Software Engineer! 
+I'm Karol. I'm a third year Computer Science Student at University College Dublin and an aspiring UX/UI Engineer & Designer! 
 # Modules I'm taking this Term 📚
 ## Autumn Semester
 - **(COMP30010)** - Foundations of Computing
